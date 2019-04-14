@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Carz</string>
+    <string name="getButton">Show Me New Cars</string>
+    <string name="getButton2">Show Me New Logos</string>
+    <string name="getNext">Next Logo</string>
+    <string name="getBack">Back</string>
+    <string name="getCar">Next Car</string>
+</resources>
